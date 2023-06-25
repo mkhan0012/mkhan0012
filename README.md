@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Moshin Khan</h1>
+<h1 align="center">Hi 👋, I'm Moshin Khan</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 - 🌱 I’m currently learning **Front-End**

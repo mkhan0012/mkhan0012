@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi!%20I'm%20Moshin%20Khan%20%F0%9F%91%8B&fontSize=45&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Tech%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D58,100:0072ff&height=220&section=header&text=Md%20Moshin%20Khan&fontSize=50&fontAlignY=35&desc=SEO%20Analyst%20%40%20Intellexa%20Advisory%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/mkhan0012">
-    <img src="https://komarev.com/ghpvc/?username=mkhan0012&label=Profile%20Views&color=0072ff&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=mkhan0012&label=Profile%20Views&color=0F9D58&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="https://github.com/mkhan0012?tab=followers">
-    <img src="https://img.shields.io/github/followers/mkhan0012?label=Followers&style=for-the-badge&color=00c6ff" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/mkhan0012?label=Followers&style=for-the-badge&color=0072ff" alt="Followers"/>
   </a>
 </div>
 
@@ -26,79 +26,73 @@
 
 <br>
 
-## 👨‍💻 About Me
+> **Bridging the gap between high-performance code and data-driven visibility.**
 
-I'm a **Frontend / Full-Stack Developer** focused on building modern, responsive, and interactive web applications. 
+### 👨‍💻 About Me
 
-- 💻 Building with **React & Next.js**
-- 🌱 Currently improving **TypeScript, backend development, and system design**
-- 🤖 Exploring **AI & automation**
-- 📈 Learning and working with **SEO & Google Analytics**
-- ⚡ Interested in modern UI/UX and web performance
-- 🚀 Turning ideas into real-world applications
-- 💬 Ask me about **JavaScript, React, Next.js, Web Development or Anime**
+- 🏢 **Currently working as:** SEO Analyst at **Intellexa Advisory**
+- 💻 **Development Focus:** React, Next.js, TypeScript, and modern Full-Stack architecture
+- 📈 **Growth Focus:** Technical SEO, Web Performance, and Google Analytics
+- 🤖 **Exploring:** AI integrations (Gemini, Groq) and automation workflows
+- 🏋️‍♂️ **Off-Screen:** Strength training, Forex trading (Price Action), and Anime
+- 💬 **Ask me about:** Web Development, SEO strategy, or JavaScript
 
 ---
 
-## 💻 Tech Stack
+### ⚙️ Tech & Tools Arsenal
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 SEO & Analytics</h3>
+      <br>
+      <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Google Search Console"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Technical%20SEO-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="SEO"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>💻 Core Stack</h3>
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres&perline=3" alt="Core Tech Stack" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,vite&perline=10" alt="Frontend Tech"/>
-  
-  <h3>Backend & Database</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres&perline=10" alt="Backend Tech"/>
-  
-  <h3>Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c&perline=10" alt="Programming Languages"/>
-  
-  <h3>Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma&perline=10" alt="Tools"/>
-  
-  <h3>SEO & Analytics</h3>
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
-  <img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Google Search Console"/>
-  <img src="https://img.shields.io/badge/SEO-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="SEO"/>
+  <h3>🛠️ Extended toolkit</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,prisma,mongodb,express,python,git,figma,vscode,vercel&perline=12" alt="Extended Tech"/>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Work
 
 <table align="center" width="100%">
   <tr>
     <td width="50%">
-      <h3>🪙 CryptoVerse</h3>
-      <p>Cryptocurrency tracking application with market data and interactive UI.</p>
-      <b>React • JavaScript • API</b>
+      <h3>📦 Inventory Management System</h3>
+      <p>Business platform for inventory, sales, purchases, and suppliers.</p>
+      <b>Next.js • Prisma • PostgreSQL</b>
     </td>
     <td width="50%">
       <h3>⚔️ Arguely</h3>
-      <p>Interactive debate and discussion platform.</p>
-      <b>React • JavaScript • CSS</b>
+      <p>Interactive debate platform leveraging AI for argument analysis.</p>
+      <b>React • API • CSS</b>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🎭 Truth Is Optional</h3>
-      <p>Interactive web experience with animations and modern UI.</p>
-      <b>React • JavaScript • GSAP</b>
-    </td>
-    <td width="50%">
-      <h3>🍔 Eat & Treat</h3>
-      <p>Modern responsive food and business website.</p>
-      <b>HTML • CSS • JavaScript</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📦 Inventory Management System</h3>
-      <p>Business management platform for inventory, sales, purchases and suppliers.</p>
-      <b>Next.js • Prisma • PostgreSQL • NextAuth</b>
+      <h3>🪙 CryptoVerse</h3>
+      <p>Cryptocurrency tracking application with live market data.</p>
+      <b>React • JavaScript • API</b>
     </td>
     <td width="50%">
       <h3>🌐 Business Websites</h3>
-      <p>Modern websites developed for real-world businesses with responsive UI, SEO and analytics.</p>
+      <p>Real-world business sites optimized for technical SEO and web performance.</p>
       <b>Next.js • React • Tailwind • SEO</b>
     </td>
   </tr>
@@ -106,28 +100,30 @@ I'm a **Frontend / Full-Stack Developer** focused on building modern, responsive
 
 ---
 
-## 📊 GitHub Analytics
+### 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkhan0012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhan0012&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mkhan0012&show_icons=true&theme=transparent&hide_border=true&title_color=0F9D58&text_color=777777&icon_color=0072ff&bg_color=00000000" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhan0012&layout=compact&theme=transparent&hide_border=true&title_color=0F9D58&text_color=777777&bg_color=00000000" alt="Top Languages" width="49%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkhan0012&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkhan0012&theme=transparent&hide_border=true&area=true&bg_color=00000000&color=0F9D58&line=0072ff&point=ffffff" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mkhan0012&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mkhan0012&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+### 🐍 Contribution Activity
+
+*(Note: Ensure your GitHub Action for the contribution snake is actively running on the `output` branch for this image to render.)*
 
 <div align="center">
   <picture>
@@ -139,18 +135,7 @@ I'm a **Frontend / Full-Stack Developer** focused on building modern, responsive
 
 ---
 
-## ✍️ Developer Quote
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
-</div>
-
----
-
-<div align="center">
-  <h2>⚡ Build. Learn. Improve. Repeat. ⚡</h2>
-  <p>Thanks for visiting my profile!</p>
-  <p>⭐ Explore my repositories • 💬 Connect with me • 🚀 Let's build something</p>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" width="100%"/>
+  <h2>⚡ Code that scales. Strategies that rank. ⚡</h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D58,100:0072ff&height=100&section=footer" width="100%"/>
 </div>

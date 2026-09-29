@@ -1,26 +1,31 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
+  # Generate once every day
   schedule:
     - cron: "0 0 * * *"
 
+  # Allow manual execution from GitHub Actions
   workflow_dispatch:
 
+  # Regenerate whenever README/workflow changes are pushed to main
   push:
     branches:
       - main
 
 jobs:
   generate:
+    name: Generate Snake
+    runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
-    runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-
-      - name: Generate Snake
+      # Generate the contribution snake
+      - name: Generate Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mkhan0012
@@ -28,7 +33,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to output branch
+      # Publish generated files to the output branch
+      - name: Publish Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
